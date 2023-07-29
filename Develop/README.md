@@ -24,7 +24,7 @@
   
   ##Usage
   
-  - You can use this project by running npm start and then opening Insomnia and working with the database
+  - You can use this project by running npm start and then opening Insomnia and working with the database. The project is located within a Develop folder per the mini project, but I know it is usually better not to do this. For this project please enter Develop folder first and then access the code.
   
   ##License
 
